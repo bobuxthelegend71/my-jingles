@@ -16,6 +16,50 @@
     {
       "game": "Dark Souls III",
       "file": "jingles/Dark Souls 3 Main Theme.mp3"
+    },
+    {
+      "game": "Arknights Enfield",
+      "file": "jingles/Arknights Enfield.mp3"
+    },
+    {
+      "game": "Geometry Dash",
+      "file": "jingles/Cant Let Go.mp3"
+    },
+    {
+      "game": "Yu-Gi-Oh! Duel Links",
+      "file": "jingles/DSOD 1000LP.mp3"
+    },
+    {
+      "game": "Arcaea",
+      "file": "jingles/Felys.mp3"
+    },
+    {
+      "game": "Honkai Impact 3rd",
+      "file": "jingles/Gion2.mp3"
+    },
+    {
+      "game": "Yu-Gi-Oh! Master Duel",
+      "file": "jingles/Master Duel WCS.mp3"
+    },
+    {
+      "game": "Roblox",
+      "file": "jingles/Roblox Theme.mp3"
+    },
+    {
+      "game": "Genshin Impact",
+      "file": "jingles/The Hazy Moon.mp3"
+    },
+    {
+      "game": "Where Winds Meet",
+      "file": "jingles/Where Winds Meet Login.mp3"
+    },
+    {
+      "game": "Wuthering Waves",
+      "file": "jingles/WuWa Login.mp3"
+    },
+    {
+      "game": "Zenless Zone Zero",
+      "file": "jingles/ZZZ Login.mp3"
     }
   ]
 }
