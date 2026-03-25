@@ -6,8 +6,12 @@
       "file": "jingles/Shiawase.mp3"
     },
     {
+      "game": "Lies of P",
+      "file": "jingles/Lisrim-Golden.mp3"
+    },
+    {
       "game": "Example Game 2",
       "file": "jingles/example-game-2.mp3"
-    }
+    },
   ]
 }
