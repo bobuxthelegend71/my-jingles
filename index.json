@@ -1,8 +1,8 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "My Jingle Pack",
   "entries": [
     {
-      "game": "Example Game 1",
+      "game": "Rocket League",
       "file": "jingles/example-game-1.mp3"
     },
     {
