@@ -13,6 +13,10 @@
     {
       "game": "Example Game 2",
       "file": "jingles/example-game-2.mp3"
+    },
+    {
+      "game": "NieR Replicant",
+      "file": "jingles/Fleeting Words Outsider.mp3"
     }
   ]
 }
