@@ -2,22 +2,6 @@
   "name": "My Jingle Pack",
   "entries": [
     {
-      "game": "Rocket League",
-      "file": "jingles/Shiawase.mp3"
-    },
-    {
-      "game": "Lies of P",
-      "file": "jingles/Lisrim Golden.mp3"
-    },
-    {
-      "game": "NieR Replicant",
-      "file": "jingles/Fleeting Words Outsider.mp3"
-    },
-    {
-      "game": "Dark Souls III",
-      "file": "jingles/Dark Souls 3 Main Theme.mp3"
-    },
-    {
       "game": "Arknights Endfield",
       "file": "jingles/Arknights Endfield.mp3"
     },
@@ -60,6 +44,22 @@
     {
       "game": "Zenless Zone Zero",
       "file": "jingles/ZZZ Login.mp3"
+    },
+        {
+      "game": "Rocket League",
+      "file": "jingles/Shiawase.mp3"
+    },
+    {
+      "game": "Lies of P",
+      "file": "jingles/Lisrim Golden.mp3"
+    },
+    {
+      "game": "NieR Replicant",
+      "file": "jingles/Fleeting Words Outsider.mp3"
+    },
+    {
+      "game": "Dark Souls III",
+      "file": "jingles/Dark Souls 3 Main Theme.mp3"
     }
   ]
 }
