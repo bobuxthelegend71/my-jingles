@@ -72,6 +72,10 @@
     {
       "game": "Dark Souls III",
       "file": "jingles/Dark Souls 3 Main Theme.mp3"
+    },
+    {
+      "game": "Celeste",
+      "file": "jingles/In the Mirror.mp3"
     }
   ]
 }
