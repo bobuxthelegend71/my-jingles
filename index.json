@@ -60,6 +60,10 @@
     {
       "game": "Dark Souls III",
       "file": "jingles/Dark Souls 3 Main Theme.mp3"
+    },
+     {
+      "game": "Terraria",
+      "file": "jingles/Terraria Calamity.mp3"
     }
   ]
 }
