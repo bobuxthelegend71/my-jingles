@@ -45,7 +45,15 @@
       "game": "Zenless Zone Zero",
       "file": "jingles/ZZZ Login.mp3"
     },
-        {
+    {
+      "game": "Terraria",
+      "file": "jingles/Terraria Corruption.mp3"
+    },
+    {
+      "game": "Terraria",
+      "file": "jingles/Terraria Calamity.mp3"
+    },
+    {
       "game": "Rocket League",
       "file": "jingles/Shiawase.mp3"
     },
@@ -60,10 +68,6 @@
     {
       "game": "Dark Souls III",
       "file": "jingles/Dark Souls 3 Main Theme.mp3"
-    },
-     {
-      "game": "Terraria",
-      "file": "jingles/Terraria Calamity.mp3"
     }
   ]
 }
