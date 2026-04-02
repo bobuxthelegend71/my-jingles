@@ -166,6 +166,60 @@
     {
       "game": "Breath of the Wild",
       "file": "jingles/wiiu/BoTW Hyrule Castle.mp3"
+    },
+    {
+      "game": "Example",
+      "file": "jingles/wiiu/example.mp3"
+    }
+  ],
+  "switch": [
+    {
+      "game": "Example",
+      "file": "jingles/switch/example.mp3"
+    },
+    {
+      "game": "Example",
+      "file": "jingles/switch/example.mp3"
+    }
+  ],
+  "n3ds": [
+    {
+      "game": "Example",
+      "file": "jingles/n3ds/example.mp3"
+    },
+    {
+      "game": "Example",
+      "file": "jingles/n3ds/example.mp3"
+    }
+  ],
+  "nds": [
+    {
+      "game": "Example",
+      "file": "jingles/nds/example.mp3"
+    },
+    {
+      "game": "Example",
+      "file": "jingles/nds/example.mp3"
+    }
+  ],
+  "n64": [
+    {
+      "game": "Example",
+      "file": "jingles/n64/example.mp3"
+    },
+    {
+      "game": "Example",
+      "file": "jingles/n64/example.mp3"
+    }
+  ],
+  "snes": [
+    {
+      "game": "Example",
+      "file": "jingles/snes/example.mp3"
+    },
+    {
+      "game": "Example",
+      "file": "jingles/snes/example.mp3"
     }
   ]
 }
