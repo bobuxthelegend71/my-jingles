@@ -1,6 +1,6 @@
 {
   "name": "My Jingle Pack",
-  "entries": [
+  "mobile": [
     {
       "game": "Arknights Endfield",
       "file": "jingles/Arknights Endfield.mp3"
@@ -48,11 +48,15 @@
     {
       "game": "Terraria",
       "file": "jingles/Terraria Calamity.mp3"
-    },
+    }
+  ],
+  "epic": [
     {
       "game": "Rocket League",
       "file": "jingles/Shiawase.mp3"
-    },
+    }
+  ],
+  "steam": [
     {
       "game": "Lies of P",
       "file": "jingles/Lisrim Golden.mp3"
@@ -156,6 +160,12 @@
     {
       "game": "Tomb Raider",
       "file": "jingles/TR2013 The One.mp3"
+    }
+  ],
+  "wiiu": [
+    {
+      "game": "Example",
+      "file": "jingles/Example.mp3"
     }
   ]
 }
