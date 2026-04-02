@@ -188,6 +188,14 @@
       "file": "jingles/n3ds/DTB Dreamy Somnom.mp3"
     },
     {
+      "game": "Pokemon Rising Ruby",
+      "file": "jingles/n3ds/OR Zinnia.mp3"
+    },
+    {
+      "game": "Pokemon Omega Ruby",
+      "file": "jingles/n3ds/OR Zinnia.mp3"
+    },
+    {
       "game": "Example",
       "file": "jingles/n3ds/example.mp3"
     }
