@@ -59,113 +59,113 @@
   "steam": [
     {
       "game": "Lies of P",
-      "file": "jingles/Lisrim Golden.mp3"
+      "file": "jingles/steam/Lisrim Golden.mp3"
     },
     {
       "game": "NieR Replicant",
-      "file": "jingles/Fleeting Words Outsider.mp3"
+      "file": "jingles/steam/Fleeting Words Outsider.mp3"
     },
     {
       "game": "NieR Automata",
-      "file": "jingles/Automata City Ruins.mp3"
+      "file": "jingles/steam/Automata City Ruins.mp3"
     },
     {
       "game": "Sekiro",
-      "file": "jingles/Gentle Blade"
+      "file": "jingles/steam/Gentle Blade"
     },
     {
       "game": "Dark Souls III",
-      "file": "jingles/Dark Souls 3 Main Theme.mp3"
+      "file": "jingles/steam/Dark Souls 3 Main Theme.mp3"
     },
     {
       "game": "Celeste",
-      "file": "jingles/In the Mirror.mp3"
+      "file": "jingles/steam/In the Mirror.mp3"
     },
     {
       "game": "Cassette Beasts",
-      "file": "jingles/Wherever We Are.mp3"
+      "file": "jingles/steam/Wherever We Are.mp3"
     },
     {
       "game": "Nine Sols",
-      "file": "jingles/9S Last Man Standing.mp3"
+      "file": "jingles/steam/9S Last Man Standing.mp3"
     },
     {
       "game": "Haven",
-      "file": "jingles/Haven Still Free.mp3"
+      "file": "jingles/steam/Haven Still Free.mp3"
     },
     {
       "game": "A Hat In Time",
-      "file": "jingles/AHiT Train.mp3"
+      "file": "jingles/steam/AHiT Train.mp3"
     },
     {
       "game": "Art of Rally",
-      "file": "jingles/AoR Leap.mp3"
+      "file": "jingles/steam/AoR Leap.mp3"
     },
     {
       "game": "A Short Hike",
-      "file": "jingles/aSH Woods.mp3"
+      "file": "jingles/steam/aSH Woods.mp3"
     },
     {
       "game": "Bloons TD 6",
-      "file": "jingles/BTD6 Title.mp3"
+      "file": "jingles/steam/BTD6 Title.mp3"
     },
     {
       "game": "Fields of Mistria",
-      "file": "jingles/FoM Summer Lens.mp3"
+      "file": "jingles/steam/FoM Summer Lens.mp3"
     },
     {
       "game": "HITMAN World of Assassination",
-      "file": "jingles/Hitman3 Dubai.mp3"
+      "file": "jingles/steam/Hitman3 Dubai.mp3"
     },
     {
       "game": "Little Witch in the Woods",
-      "file": "jingles/LWiTW Forest Night.mp3"
+      "file": "jingles/steam/LWiTW Forest Night.mp3"
     },
     {
       "game": "Monster Hunter World",
-      "file": "jingles/MHW Main Theme.mp3"
+      "file": "jingles/steam/MHW Main Theme.mp3"
     },
     {
       "game": "Ori and the Blind Forest",
-      "file": "jingles/OaTBF Light of Nibel.mp3"
+      "file": "jingles/steam/OaTBF Light of Nibel.mp3"
     },
     {
       "game": "Ori and the Will of the Wisps",
-      "file": "jingles/OaTWoTW Main Theme.mp3"
+      "file": "jingles/steam/OaTWoTW Main Theme.mp3"
     },
     {
       "game": "Rayman Legends",
-      "file": "jingles/RayL Tower of Babel.mp3"
+      "file": "jingles/steam/RayL Tower of Babel.mp3"
     },
     {
       "game": "Rayman Origins",
-      "file": "jingles/RayO Desert of Mirage.mp3"
+      "file": "jingles/steam/RayO Desert of Mirage.mp3"
     },
     {
       "game": "Stellar Blade",
-      "file": "jingles/SB Silent Street.mp3"
+      "file": "jingles/steam/SB Silent Street.mp3"
     },
     {
       "game": "Sonic Racing Crossworlds",
-      "file": "jingles/SRC Overworld.mp3"
+      "file": "jingles/steam/SRC Overworld.mp3"
     },
     {
       "game": "Stardew Valley",
-      "file": "jingles/SV Summer.mp3"
+      "file": "jingles/steam/SV Summer.mp3"
     },
     {
       "game": "Haste",
-      "file": "jingles/Haste Glades.mp3"
+      "file": "jingles/steam/Haste Glades.mp3"
     },
     {
       "game": "Tomb Raider",
-      "file": "jingles/TR2013 The One.mp3"
+      "file": "jingles/steam/TR2013 The One.mp3"
     }
   ],
   "wiiu": [
     {
-      "game": "Example",
-      "file": "jingles/Example.mp3"
+      "game": "Breath of the Wild",
+      "file": "jingles/wiiu/BoTW Hyrule Castle.mp3"
     }
   ]
 }
