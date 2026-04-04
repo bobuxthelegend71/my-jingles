@@ -48,6 +48,10 @@
     {
       "game": "Terraria",
       "file": "jingles/mobile/Terraria Calamity.mp3"
+    },
+    {
+      "game": "Minecraft",
+      "file": "jingles/mobile/Aria Math.mp3"
     }
   ],
   "epic": [
