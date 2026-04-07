@@ -58,6 +58,10 @@
     {
       "game": "Rocket League",
       "file": "jingles/epic/Shiawase.mp3"
+    },
+    {
+      "game": "Rocket League Jingle 2",
+      "file": "jingles/epic/Solar Eclipses.mp3"
     }
   ],
   "steam": [
