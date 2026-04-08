@@ -237,5 +237,17 @@
       "game": "Example",
       "file": "jingles/snes/example.mp3"
     }
+  ],
+  "wii": [
+    {
+      "game": "example",
+      "file": "jingles/wii/example.mp3"
+    }
+  ],
+  "gamecube": [
+    {
+      "game": "example",
+      "file": "jingles/gamecube/example.mp3"
+    }
   ]
 }
