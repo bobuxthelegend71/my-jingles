@@ -174,6 +174,18 @@
       "file": "jingles/steam/TR2013 The One.mp3"
     }
   ],
+  "gamecube": [
+    {
+      "game": "Example",
+      "file": "jingles/gc/example.mp3"
+    }
+  ],
+  "wii": [
+    {
+      "game": "Example",
+      "file": "jingles/wii/example.mp3"
+    }
+  ],
   "wiiu": [
     {
       "game": "Breath of the Wild",
