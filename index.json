@@ -184,6 +184,10 @@
     {
       "game": "Super Mario Galaxy",
       "file": "jingles/wii/Gusty Garden.mp3"
+    },
+    {
+      "game": "Super Mario Galaxy 2",
+      "file": "jingles/wii/SMG2 Theme.mp3"
     }
   ],
   "wiiu": [
