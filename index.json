@@ -177,7 +177,7 @@
   "gamecube": [
     {
       "game": "Example",
-      "file": "jingles/gc/example.mp3"
+      "file": "jingles/gamecube/example.mp3"
     }
   ],
   "wii": [
@@ -206,10 +206,14 @@
       "file": "jingles/switch/example.mp3"
     }
   ],
-  "n3ds": [
+  "Nintendo 3ds": [
     {
-      "game": "Mario & Luigi - Dream Team",
+      "game": "Mario & Luigi - Dream Team Bros",
       "file": "jingles/n3ds/DTB Dreamy Somnom.mp3"
+    },
+    {
+      "game": "Mario & Luigi - Dream Team Bros Jingle 2",
+      "file": "jingles/n3ds/Somnom Remix.mp3"
     },
     {
       "game": "Pokemon Rising Ruby",
@@ -252,18 +256,6 @@
     {
       "game": "Example",
       "file": "jingles/snes/example.mp3"
-    }
-  ],
-  "wii": [
-    {
-      "game": "example",
-      "file": "jingles/wii/example.mp3"
-    }
-  ],
-  "gamecube": [
-    {
-      "game": "example",
-      "file": "jingles/gamecube/example.mp3"
     }
   ]
 }
