@@ -188,6 +188,22 @@
     {
       "game": "Super Mario Galaxy 2",
       "file": "jingles/wii/SMG2 Theme.mp3"
+    },
+    {
+      "game": "Mario Kart Wii",
+      "file": "jingles/wii/Coconut Mall.mp3"
+    },
+    {
+      "game": "New Super Mario Bros Wii",
+      "file": "jingles/wii/NSMBW W8.mp3"
+    },
+    {
+      "game": "The Legend of Zelda - Skyward Sword",
+      "file": "jingles/wii/Ballad of the Goddess.mp3"
+    },
+    {
+      "game": "Xenoblade Chronicles",
+      "file": "jingles/wii/XC You Will Know Our Name.mp3"
     }
   ],
   "wiiu": [
