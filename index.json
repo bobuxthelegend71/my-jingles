@@ -180,8 +180,32 @@
   ],
   "gamecube": [
     {
-      "game": "Example",
-      "file": "jingles/gamecube/example.mp3"
+      "game": "Paper Mario - The Thousand-Year Door",
+      "file": "jingles/gamecube/Battle - Chapter 2 - Paper Mario The Thousand Year Door Remake OST.mp3"
+    },
+    {
+      "game": "Super Mario Sunshine",
+      "file": "jingles/gamecube/Delfino Plaza.mp3"
+    },
+    {
+      "game": "The Wind Waker",
+      "file": "jingles/gamecube/Dragon Roost Island - The Legend of Zelda The Wind Waker OST.mp3"
+    },
+    {
+      "game": "Fire Emblem Path of Radiance",
+      "file": "jingles/gamecube/Fire Emblem Path of Radiance -- Against the Black Knight.mp3"
+    },
+    {
+      "game": "Luigi's Mansion",
+      "file": "jingles/gamecube/Luigi's Mansion Music- Professor E. Gadd's Lab.mp3"
+    },
+    {
+      "game": "Twilight Princess",
+      "file": "jingles/gamecube/Sacred Grove - The Legend of Zelda Twilight Princess OST.mp3"
+    },
+    {
+      "game": "Animal Crossing",
+      "file": "jingles/gamecube/Title Theme - Animal Crossing Gamecube OST 1.mp3"
     }
   ],
   "wii": [
