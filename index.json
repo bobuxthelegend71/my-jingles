@@ -270,12 +270,12 @@
   ],
   "snes": [
     {
-      "game": "Example",
-      "file": "jingles/snes/example.mp3"
+      "game": "Super Mario World",
+      "file": "jingles/snes/Super Mario World OST - Wandering The Plains.mp3"
     },
     {
-      "game": "Example",
-      "file": "jingles/snes/example.mp3"
+      "game": "Super Mario All-Stars",
+      "file": "jingles/snes/Super Mario All Stars OST - Game Select.mp3"
     }
   ]
 }
