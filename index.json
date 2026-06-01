@@ -396,12 +396,20 @@
   ],
   "n64": [
     {
-      "game": "Example",
-      "file": "jingles/n64/example.mp3"
+      "game": "Majora's Mask",
+      "file": "jingles/n64/Majora's Mask Song of Healing.mp3"
     },
     {
-      "game": "Example",
-      "file": "jingles/n64/example.mp3"
+      "game": "Paper Mario",
+      "file": "jingles/n64/Paper Mario 64 OST - Crystal Palace Crawl.mp3"
+    },
+    {
+      "game": "Super Mario 64",
+      "file": "jingles/n64/Super Mario 64 Soundtrack - Dire, Dire Docks.mp3"
+    },
+    {
+      "game": "Ocarina of Time",
+      "file": "jingles/n64/Windmill Hut - The Legend of Zelda Ocarina Of Time.mp3"
     }
   ],
   "snes": [
