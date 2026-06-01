@@ -380,8 +380,72 @@
       "file": "jingles/n3ds/OR Zinnia.mp3"
     },
     {
-      "game": "Example",
-      "file": "jingles/n3ds/example.mp3"
+      "game": "Animal Crossing - New Leaf",
+      "file": "jingles/n3ds/5 P.M. - Animal Crossing New Leaf.mp3"
+    },
+    {
+      "game": "Fantasy Life",
+      "file": "jingles/n3ds/Fantasy Life OST - 49 Battle with formidable enemy.mp3"
+    },
+    {
+      "game": "Mario & Luigi - Paper Jam",
+      "file": "jingles/n3ds/Final Battle - Mario & Luigi Paper Jam OST.mp3"
+    },
+    {
+      "game": "Ocarina of Time 3D",
+      "file": "jingles/n3ds/Gerudo Valley - The Legend of Zelda Ocarina Of Time.mp3"
+    },
+    {
+      "game": "Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey",
+      "file": "jingles/n3ds/In the Final DX - Mario and Luigi Bowser's Inside Story + Bowser Jr.'s Journey OST.mp3"
+    },
+    {
+      "game": "Tomodachi Life",
+      "file": "jingles/n3ds/Introduction Local Play - Tomodachi Life OST.mp3"
+    },
+    {
+      "game": "Mario Kart 7",
+      "file": "jingles/n3ds/Mario Kart 7 - Rainbow Road.mp3"
+    },
+    {
+      "game": "Mii Maker",
+      "file": "jingles/n3ds/Mii Maker - Nintendo 3DS.mp3"
+    },
+    {
+      "game": "Super Mario 3D Land",
+      "file": "jingles/n3ds/Overworld Theme - Super Mario 3D Land.mp3"
+    },
+    {
+      "game": "Pokemon Ultra Sun",
+      "file": "jingles/n3ds/Pokémon Sun & Moon - Aether President Lusamine Battle Music (HQ).mp3"
+    },
+    {
+      "game": "Pokemon Supernova Sun",
+      "file": "jingles/n3ds/Pokémon UltraSun & UltraMoon - Ultra Necrozma Battle Music (HQ).mp3"
+    },
+    {
+      "game": "Pokemon Eternal X",
+      "file": "jingles/n3ds/Pokémon X Y - Champion Diantha Battle Music (HQ).mp3"
+    },
+    {
+      "game": "Pokemon X",
+      "file": "jingles/n3ds/Pokémon X Y - Gym Leaders Battle Music (HQ).mp3"
+    },
+    {
+      "game": "Majora's Mask 3D",
+      "file": "jingles/n3ds/Termina Field - The Legend of Zelda Majora's Mask OST.mp3"
+    },
+    {
+      "game": "Mario & Luigi - Superstar Saga + Bowser's Minions",
+      "file": "jingles/n3ds/Title Theme - Mario & Luigi Superstar Saga + Bowser's Minions OST.mp3"
+    },
+    {
+      "game": "New Super Mario Bros. 2",
+      "file": "jingles/n3ds/Volcano (Leaf Beat) - New Super Mario Bros. 2 OST.mp3"
+    },
+    {
+      "game": "Xenoblade Chronicles 3D",
+      "file": "jingles/n3ds/Xenoblade Chronicles OST - Gaur Plain.mp3"
     }
   ],
   "nds": [
