@@ -446,6 +446,22 @@
     {
       "game": "Xenoblade Chronicles 3D",
       "file": "jingles/n3ds/Xenoblade Chronicles OST - Gaur Plain.mp3"
+    },
+    {
+      "game": "Phoenix Wright - Ace Attorney - Spirit of Justice",
+      "file": "jingles/n3ds/Cross Examination ~ Moderato 2016 - Ace Attorney 6 Spirit Of Justice OST.mp3"
+    },
+    {
+      "game": "Phoenix Wright - Ace Attorney - Dual Destinies",
+      "file": "jingles/n3ds/Dual Destinies OST 1-04 Cross Examination ~ Moderato 2013.mp3"
+    },
+    {
+      "game": "Professor Layton vs Phoenix Wright - Ace Attorney",
+      "file": "jingles/n3ds/PLvsAA OST - 2-05 - Cross-Examination ~ Moderato (English Court Suite).mp3"
+    },
+    {
+      "game": "Phoenix Wright - Ace Attorney Trilogy",
+      "file": "jingles/n3ds/Trial 2001   Ace Attorney Trilogy - Arranged Soundtrack.mp3"
     }
   ],
   "nds": [
