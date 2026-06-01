@@ -216,8 +216,32 @@
       "file": "jingles/wiiu/BoTW Hyrule Castle.mp3"
     },
     {
-      "game": "Example",
-      "file": "jingles/wiiu/example.mp3"
+      "game": "Bayonetta",
+      "file": "jingles/wiiu/Bayonetta - Fly Me To The Moon (Climax).mp3"
+    },
+    {
+      "game": "Twilight Princess HD",
+      "file": "jingles/wiiu/Hyrule Field - The Legend of Zelda Twilight Princess.mp3"
+    },
+    {
+      "game": "Minecraft Story Mode",
+      "file": "jingles/wiiu/Order of the Stone [Minecraft Story Mode 101 OST].mp3"
+    },
+    {
+      "game": "Super Mario 3D World",
+      "file": "jingles/wiiu/Super Mario 3D World Title Screen Skits.mp3"
+    },
+    {
+      "game": "The Wind Waker HD",
+      "file": "jingles/wiiu/The Great Sea - The Legend of Zelda The Wind Waker HD OST.mp3"
+    },
+    {
+      "game": "Super Mario Maker",
+      "file": "jingles/wiiu/Title Screen - Super Mario Maker OST.mp3"
+    },
+    {
+      "game": "New Super Mario Bros. U",
+      "file": "jingles/wiiu/Wii U Loading Screen - New Super Mario Bros. U Deluxe (OST).mp3"
     }
   ],
   "switch": [
@@ -304,6 +328,10 @@
     {
       "game": "Tomodachi Life Living the Dream",
       "file": "jingles/switch/Title Screen - Tomodachi Life Living the Dream [OST].mp3"
+    },
+    {
+      "game": "Splatoon 3",
+      "file": "jingles/switch/Tutorial ~ Surge & Submerge (ω-3) - Splatoon 3.mp3.mp3"
     },
     {
       "game": "Xenoblade Chronicles X",
