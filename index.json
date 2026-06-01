@@ -454,8 +454,100 @@
       "file": "jingles/nds/BiS Final.mp3"
     },
     {
-      "game": "Example",
-      "file": "jingles/nds/example.mp3"
+      "game": "Super Mario 64 DS",
+      "file": "jingles/nds/[NDS] Super Mario 64 DS OST Track 1 - Rec Room.mp3"
+    },
+    {
+      "game": "Chrono Trigger",
+      "file": "jingles/nds/02. Chrono Trigger.mp3"
+    },
+    {
+      "game": "Ace Attorney Investigations - Miles Edgeworth",
+      "file": "jingles/nds/Ace Attorney Investigations Miles Edgeworth - Logic ~ The Way to the Truth.mp3"
+    },
+    {
+      "game": "Apollo Justice - Ace Attorney",
+      "file": "jingles/nds/Apollo Justice Ace Attorney Soundtrack - Cross Examination ~ Moderate 2007.mp3"
+    },
+    {
+      "game": "Sonic Rush Adventure",
+      "file": "jingles/nds/Boss - Sonic Rush Adventure [OST].mp3"
+    },
+    {
+      "game": "Cory in the House",
+      "file": "jingles/nds/Boss Fight - Cory in the House Soundtrack.mp3"
+    },
+    {
+      "game": "The World Ends With You",
+      "file": "jingles/nds/Calling - The World Ends With You [OST].mp3"
+    },
+    {
+      "game": "Final Fantasy XII",
+      "file": "jingles/nds/Final Fantasy XII Revenant Wings Main Theme 2.mp3"
+    },
+    {
+      "game": "Super Princess Peach",
+      "file": "jingles/nds/Fury Volcano 1 - Super Princess Peach OST.mp3"
+    },
+    {
+      "game": "Ghost Trick",
+      "file": "jingles/nds/Ghost Trick (Arranged) - Ghost Trick Phantom Detective (2023).mp3"
+    },
+    {
+      "game": "Mario & Luigi - Partners In Time",
+      "file": "jingles/nds/Mario & Luigi Partners In Time Music; Final Boss.mp3"
+    },
+    {
+      "game": "Mario & Sonic at the Olympic Winter Games",
+      "file": "jingles/nds/Mario & Sonic at the Olympic Winter Games (DS) - Title.mp3"
+    },
+    {
+      "game": "Mario Kart DS",
+      "file": "jingles/nds/Mario Kart DS (2005 Nintendo) - Title Screen (HD).mp3"
+    },
+    {
+      "game": "New Super Mario Bros. DS",
+      "file": "jingles/nds/New Super Mario Bros. DS - World 8 (Part 2) Dark Land.mp3"
+    },
+    {
+      "game": "Phoenix Wright - Ace Attorney - Justice for All",
+      "file": "jingles/nds/Phoenix Wright Ace Attorney Justice for All OST - Pressing Pursuit ~ Cross-Examine.mp3"
+    },
+    {
+      "game": "Phoenix Wright - Ace Attorney",
+      "file": "jingles/nds/Phoenix Wright Ace Attorney OST - Questioning ~ Moderato 2001.mp3"
+    },
+    {
+      "game": "Phoenix Wright - Ace Attorney - Trials and Tribulations",
+      "file": "jingles/nds/Phoenix Wright Trials and Tribulations OST - Questioning ~ Allegro 2004.mp3"
+    },
+    {
+      "game": "Pokemon Platinum",
+      "file": "jingles/nds/Pokémon Diamond, Pearl & Platinum - Champion Cynthia Battle Music (HQ).mp3"
+    },
+    {
+      "game": "Animal Crossing - Wild World",
+      "file": "jingles/nds/Post Office (Day) - Animal Crossing Wild World Soundtrack.mp3"
+    },
+    {
+      "game": "Fire Emblem - Shadow Dragon",
+      "file": "jingles/nds/Shadow Dragon Music- Fire Emblem Theme.mp3"
+    },
+    {
+      "game": "Mario & Sonic at The Olympic Games",
+      "file": "jingles/nds/Title - Mario & Sonic at The Olympic Games (DS) (OST).mp3"
+    },
+    {
+      "game": "Brain Age",
+      "file": "jingles/nds/Title Screen - Brain Age 2 More Training in Minutes a Day! OST.mp3"
+    },
+    {
+      "game": "Brain Training",
+      "file": "jingles/nds/Title Theme - Dr. Kawashima's Brain Training How Old Is Your Brain (Soundtrack).mp3"
+    },
+    {
+      "game": "Sonic Rush",
+      "file": "jingles/nds/What U Need - Sonic Rush [OST].mp3"
     }
   ],
   "n64": [
