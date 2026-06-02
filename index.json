@@ -594,6 +594,12 @@
       "file": "jingles/n64/Windmill Hut - The Legend of Zelda Ocarina Of Time.mp3"
     }
   ],
+  "ps3": [
+    {
+      "game": "Minecraft - Playstation 3 Edition",
+      "file": "jingles/ps3/Minecraft - Living Mice   Epic Hybrid Orchestral Remix.mp3"
+    }
+  ],
   "snes": [
     {
       "game": "Super Mario World",
