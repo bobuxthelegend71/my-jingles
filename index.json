@@ -46,8 +46,8 @@
       "file": "jingles/mobile/ZZZ Login.wav"
     },
     {
-      "game": "Terraria",
-      "file": "jingles/mobile/Terraria Calamity.mp3"
+      "game": "Terraria Mobile",
+      "file": "jingles/mobile/Terraria Music - Title Screen.mp3"
     },
     {
       "game": "NTE",
@@ -172,6 +172,10 @@
     {
       "game": "Haste",
       "file": "jingles/steam/Haste Glades.mp3"
+    },
+    {
+      "game": "Terraria PC",
+      "file": "jingles/steam/Terraria Calamity.mp3"
     },
     {
       "game": "Tomb Raider",
