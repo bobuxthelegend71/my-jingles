@@ -54,7 +54,7 @@
       "file": "jingles/mobile/OST NTE - Drowning.mp3"
     },
     {
-      "game": "Minecraft",
+      "game": "Minecraft Mobile",
       "file": "jingles/mobile/Aria Math.mp3"
     }
   ],
@@ -180,6 +180,12 @@
     {
       "game": "Tomb Raider",
       "file": "jingles/steam/TR2013 The One.mp3"
+    }
+  ],
+  "PC (General)": [
+    {
+      "game": "Minecraft Java",
+      "file": "jingles/pc/C418 - Dreiton (Minecraft Volume Beta).mp3"
     }
   ],
   "gamecube": [
