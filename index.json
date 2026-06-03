@@ -602,6 +602,18 @@
     {
       "game": "Minecraft - Playstation 3 Edition",
       "file": "jingles/ps3/Minecraft - Living Mice   Epic Hybrid Orchestral Remix.mp3"
+    },
+    {
+      "game": "Grand Theft Auto V PS3",
+      "file": "jingles/ps3/Chain Gang Of 1974 -  Sleepwalking (Official Audio).mp3"
+    },
+    {
+      "game": "Drakengard 3",
+      "file": "jingles/ps3/Drakengard 3 OST 32 -The Final Song ~ Black Song White Scales.mp3"
+    },
+    {
+      "game": "Demon's Souls",
+      "file": "jingles/ps3/Hero Creation   Demon's Souls OST.mp3"
     }
   ],
   "snes": [
