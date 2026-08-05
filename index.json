@@ -661,5 +661,11 @@
       "game": "Super Mario All-Stars",
       "file": "jingles/snes/Super Mario All Stars OST - Game Select.mp3"
     }
+  ],
+  "flash": [
+    {
+      "game": "Super Mario 63",
+      "file": "jingles/flash/Super Mario 63 File Select Music (Original Quality).mp3"
+    }
   ]
 }
