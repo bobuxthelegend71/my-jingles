@@ -220,6 +220,18 @@
     {
       "game": "Tomb Raider",
       "file": "jingles/steam/TR2013 The One.mp3"
+    },
+    {
+      "game": "Car Mechanic Simulator 2021",
+      "file": "jingles/steam/Car Mechanic Simulator 2021 JINXSPR0 - Grand.mp3"
+    },
+    {
+      "game": "DragonSword Awakening",
+      "file": "jingles/steam/DragonSword Awakening (2026) OST Soundtrack 31. Town Orbis Daytime [4K 60FPS UHD].mp3"
+    },
+    {
+      "game": "The Artisan of Glimmith",
+      "file": "jingles/steam/Relaxing Fantasy - Sea of stars.mp3"
     }
   ],
   "PC (General)": [
